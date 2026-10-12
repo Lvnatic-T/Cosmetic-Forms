@@ -10,7 +10,7 @@
   "contact": {
     "homepage":"https://modrinth.com/project/cosmetic-megas"
   },
-  "license":"CC-BY-NC-SA-4.0",
+  "license":"Lvnatic's General license",
   "icon":"pack.png",
   "environment":"*",
   "depends": {

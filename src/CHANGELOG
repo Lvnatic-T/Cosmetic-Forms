@@ -3,3 +3,6 @@
 - Requires Mega Showdown 1.3.0+ now!
 - Optionally works with Navas ZA Megas 1.8.1+ now!
 - Optionally works with Lost Lore 3.2.0+ now!
+### General:
+- Fixed Heracrosite & Cameruptite not being able to be equipped
+- Fixed Abomasnows Shiny mega not displaying properly
