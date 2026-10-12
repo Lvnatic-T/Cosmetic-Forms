@@ -1,0 +1,9 @@
+{
+  "pokemon": ["sableye"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:sablenite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

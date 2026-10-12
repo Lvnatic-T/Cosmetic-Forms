@@ -1,0 +1,9 @@
+{
+  "pokemon": ["emboar"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:emboarite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

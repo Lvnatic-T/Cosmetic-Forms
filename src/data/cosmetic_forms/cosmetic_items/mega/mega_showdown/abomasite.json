@@ -1,0 +1,9 @@
+{
+  "pokemon": ["abomasnow"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:abomasite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

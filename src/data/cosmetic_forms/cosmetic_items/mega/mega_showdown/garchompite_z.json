@@ -1,0 +1,9 @@
+{
+  "pokemon": ["garchomp"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:garchompite_z",
+      "aspects": ["cosmetic_item-mega_z"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id":"t_cosmetic_forms",
+  "version":"1.5",
+  "name":"Cobblemon: Cosmetic Forms",
+  "description":"Allows you to equip a Pokémons respective Mega Stone or a Max Soup as a cosmetic item.",
+  "authors":[
+    "Lvnatic"
+  ],
+  "contact": {
+    "homepage":"https://modrinth.com/project/cosmetic-megas"
+  },
+  "license":"CC-BY-NC-SA-4.0",
+  "icon":"pack.png",
+  "environment":"*",
+  "depends": {
+    "cobblemon": ">=1.8.2",
+    "mega_showdown": ">=1.2.0+1.8.1+1.21.1-release"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.modrinth": "https://modrinth.com/mod/cosmetic-megas",
+        "modmenu.discord": "https://discord.gg/y7fXYrHkpV",
+        "modmenu.kofi": "https://ko-fi.com/allthemons",
+        "modmenu.source": "https://github.com/Lvnatic-T/Cosmetic-Forms"
+      }
+    }
+  }
+}

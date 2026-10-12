@@ -1,0 +1,9 @@
+{
+  "pokemon": ["glimmora"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:glimmoranite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

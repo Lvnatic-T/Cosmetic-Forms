@@ -1,0 +1,9 @@
+{
+  "pokemon": ["houndoom"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:houndoominite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

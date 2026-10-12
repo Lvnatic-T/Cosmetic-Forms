@@ -1,0 +1,9 @@
+{
+  "pokemon": ["tyranitar"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:tyranitarite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

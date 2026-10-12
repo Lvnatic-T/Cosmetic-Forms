@@ -1,0 +1,9 @@
+{
+  "pokemon": ["banette"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:banettite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

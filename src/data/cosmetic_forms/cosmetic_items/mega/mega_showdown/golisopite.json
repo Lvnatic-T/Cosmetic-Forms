@@ -1,0 +1,9 @@
+{
+  "pokemon": ["golisopod"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:golisopite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

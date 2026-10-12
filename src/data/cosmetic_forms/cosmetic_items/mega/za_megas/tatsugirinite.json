@@ -1,0 +1,9 @@
+{
+  "pokemon": ["tatsugiri"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "zamega:tatsugirinite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["blaziken"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:blazikenite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

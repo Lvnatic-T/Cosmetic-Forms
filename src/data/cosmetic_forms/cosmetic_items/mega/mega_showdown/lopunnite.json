@@ -1,0 +1,9 @@
+{
+  "pokemon": ["lopunny"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:lopunnite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

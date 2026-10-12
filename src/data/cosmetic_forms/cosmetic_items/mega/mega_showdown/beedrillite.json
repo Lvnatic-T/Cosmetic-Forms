@@ -1,0 +1,9 @@
+{
+  "pokemon": ["beedrill"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:beedrillite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

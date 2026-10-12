@@ -1,0 +1,9 @@
+{
+  "pokemon": ["rayquaza"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:mega_stone",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

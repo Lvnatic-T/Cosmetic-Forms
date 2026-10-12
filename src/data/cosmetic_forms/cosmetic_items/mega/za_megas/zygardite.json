@@ -1,0 +1,9 @@
+{
+  "pokemon": ["zygarde"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "zamega:zygardite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["scrafty"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:scraftinite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

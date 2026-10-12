@@ -1,0 +1,9 @@
+{
+  "pokemon": ["pidgeot"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:pidgeotite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

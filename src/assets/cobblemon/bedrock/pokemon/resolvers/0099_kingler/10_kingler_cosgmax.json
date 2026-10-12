@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:kingler",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:kingler_gmax",
+      "model": "cobblemon:kingler_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/0099_kingler/kingler_gmax.png"
+    },
+    {
+      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0099_kingler/kingler_gmax_shiny.png"
+    }
+  ]
+}

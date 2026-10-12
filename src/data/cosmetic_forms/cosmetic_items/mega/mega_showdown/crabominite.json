@@ -1,0 +1,9 @@
+{
+  "pokemon": ["crabominable"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:crabominite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

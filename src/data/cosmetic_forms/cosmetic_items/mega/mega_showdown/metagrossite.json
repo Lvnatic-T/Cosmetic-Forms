@@ -1,0 +1,9 @@
+{
+  "pokemon": ["metagross"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:metagrossite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

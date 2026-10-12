@@ -1,0 +1,9 @@
+{
+  "pokemon": ["baxcalibur"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:baxcalibrite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

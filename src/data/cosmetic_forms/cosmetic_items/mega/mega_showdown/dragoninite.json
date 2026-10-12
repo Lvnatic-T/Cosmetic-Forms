@@ -1,0 +1,9 @@
+{
+  "pokemon": ["dragonite"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:dragoninite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

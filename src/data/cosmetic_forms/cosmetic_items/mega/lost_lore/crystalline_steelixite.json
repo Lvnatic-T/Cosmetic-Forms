@@ -1,0 +1,9 @@
+{
+  "pokemon": ["steelix"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "lost_lore:crystalline_steelixite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

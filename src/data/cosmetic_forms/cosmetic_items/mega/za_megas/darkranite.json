@@ -1,0 +1,9 @@
+{
+  "pokemon": ["darkrai"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "zamega:darkranite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

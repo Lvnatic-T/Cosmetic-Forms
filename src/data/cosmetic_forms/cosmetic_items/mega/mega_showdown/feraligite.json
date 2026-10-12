@@ -1,0 +1,9 @@
+{
+  "pokemon": ["feraligatr"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:feraligite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

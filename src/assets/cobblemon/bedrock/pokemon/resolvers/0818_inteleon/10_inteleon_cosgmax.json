@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:inteleon",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:inteleon_gmax",
+      "model": "cobblemon:inteleon_gmax.geo",
+      "texture": "cobblemon:textures/pokemon/0818_inteleon/inteleon_gmax.png"
+    },
+    {
+      "aspects": ["cosmetic_item-gmax","shiny"],
+      "texture": "cobblemon:textures/pokemon/0818_inteleon/inteleon_gmax_shiny.png"
+    }
+  ]
+}

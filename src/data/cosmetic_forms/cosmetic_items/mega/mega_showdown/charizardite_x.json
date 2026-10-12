@@ -1,0 +1,9 @@
+{
+  "pokemon": ["charizard"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:charizardite_x",
+      "aspects": ["cosmetic_item-mega_x"]
+    }
+  ]
+}

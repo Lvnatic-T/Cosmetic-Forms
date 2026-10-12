@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gyarados",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:gyarados_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0130_gyarados/gyarados_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "model": "cobblemon:gyarados_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0130_gyarados/gyarados_mega_shiny.png"
+    }
+  ]
+}

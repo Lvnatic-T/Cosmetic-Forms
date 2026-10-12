@@ -1,0 +1,9 @@
+{
+  "pokemon": ["gallade"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:galladite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

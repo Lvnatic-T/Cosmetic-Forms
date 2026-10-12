@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:delphox",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+	  "poser": "cobblemon:delphoxmega",
+      "model": "cobblemon:delphoxmega.geo",
+      "texture": "cobblemon:textures/pokemon/0655_delphox/delphox_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0655_delphox/delphox_mega_shiny.png"
+    }
+  ]
+}

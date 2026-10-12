@@ -1,0 +1,9 @@
+{
+  "pokemon": ["malamar"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:malamarite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

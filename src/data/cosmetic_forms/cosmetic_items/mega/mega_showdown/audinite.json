@@ -1,0 +1,9 @@
+{
+  "pokemon": ["audino"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:audinite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

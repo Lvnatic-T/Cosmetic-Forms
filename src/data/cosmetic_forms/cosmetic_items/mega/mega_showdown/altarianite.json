@@ -1,0 +1,9 @@
+{
+  "pokemon": ["altaria"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:altarianite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

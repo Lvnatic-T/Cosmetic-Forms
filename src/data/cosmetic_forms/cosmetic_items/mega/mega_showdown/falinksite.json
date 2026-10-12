@@ -1,0 +1,9 @@
+{
+  "pokemon": ["falinks"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:falinksite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

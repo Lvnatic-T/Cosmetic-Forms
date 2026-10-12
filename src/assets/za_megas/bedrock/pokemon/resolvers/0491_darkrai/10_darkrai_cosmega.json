@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:darkrai",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "poser": "cobblemon:darkrai_mega",
+      "model": "cobblemon:darkrai_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0491_darkrai/darkrai_mega.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0491_darkrai/darkrai_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0491_darkrai/darkrai_mega_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0491_darkrai/darkrai_mega_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

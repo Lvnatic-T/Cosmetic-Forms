@@ -1,0 +1,9 @@
+{
+  "pokemon": ["floette"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:floettite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

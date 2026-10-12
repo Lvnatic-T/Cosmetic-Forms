@@ -1,0 +1,9 @@
+{
+  "pokemon": ["pyroar"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:pyroarite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

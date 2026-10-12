@@ -1,0 +1,9 @@
+{
+  "pokemon": ["raichu"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:raichunite_y",
+      "aspects": ["cosmetic_item-mega_y"]
+    }
+  ]
+}

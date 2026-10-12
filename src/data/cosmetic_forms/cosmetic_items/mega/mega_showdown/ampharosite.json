@@ -1,0 +1,9 @@
+{
+  "pokemon": ["ampharos"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:ampharosite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

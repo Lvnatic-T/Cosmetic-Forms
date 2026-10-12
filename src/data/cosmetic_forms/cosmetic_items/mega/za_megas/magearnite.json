@@ -1,0 +1,9 @@
+{
+  "pokemon": ["magearna"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "zamega:magearnite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

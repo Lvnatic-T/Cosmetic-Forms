@@ -1,0 +1,9 @@
+{
+  "pokemon": ["absol"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:absolite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["chandelure"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:chandelurite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

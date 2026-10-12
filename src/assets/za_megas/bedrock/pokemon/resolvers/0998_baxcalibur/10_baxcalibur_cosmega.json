@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:baxcalibur",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "poser": "cobblemon:baxcalibur_mega",
+      "model": "cobblemon:baxcalibur_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0998_baxcalibur/baxcalibur_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0998_baxcalibur/baxcalibur_mega_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["skarmory"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:skarmorite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

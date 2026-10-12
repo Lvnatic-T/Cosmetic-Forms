@@ -1,0 +1,9 @@
+{
+  "pokemon": ["aggron"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:aggronite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

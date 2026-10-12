@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:coalossal",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:coalossalgmax",
+      "model": "cobblemon:gmax_coalossal.geo",
+      "texture": "cobblemon:textures/pokemon/0839_coalossal/gmax_coalossal.png"
+    },
+    {
+      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "poser": "cobblemon:coalossalgmax",
+      "model": "cobblemon:gmax_coalossal.geo",
+      "texture": "cobblemon:textures/pokemon/0839_coalossal/gmax_coalossal_shiny.png"
+    }
+  ]
+}

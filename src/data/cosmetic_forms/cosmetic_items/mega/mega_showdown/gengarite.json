@@ -1,0 +1,9 @@
+{
+  "pokemon": ["gengar"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:gengarite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:medicham",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:medicham_mega.geo",
+      "poser": "cobblemon:mega_medicham",
+      "texture": "cobblemon:textures/pokemon/0308_medicham/medicham_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0308_medicham/medicham_mega_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+modLoader = 'javafml'
+loaderVersion = '[2,)'
+license = "Lvnatic's General license"
+
+[[mods]]
+modId = 't_cosmetic_forms'
+version = '1.5'
+displayName = 'Cobblemon: Cosmetic Forms'
+authors = 'Lvnatic'
+description = '''Allows you to equip a Pokémons respective Mega Stone or a Max Soup as a cosmetic item.''' 
+logoFile = 'pack.png'
+displayURL = 'https://modrinth.com/project/cosmetic-megas' 
+
+[[dependencies.t_cosmetic_forms]]
+modId = "cobblemon"
+type = "required"
+reason = "You're missing like the most important mod for this to work. Install/Update it!"
+versionRange = "[1.8.2,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.t_cosmetic_forms]]
+modId = "mega_showdown"
+type = "required"
+reason = "You're missing like the second most important mod for this to work. Install/Update it!"
+versionRange = "[1.2.0+1.8.1+1.21.1-release,)"
+ordering = "AFTER"
+side = "BOTH"

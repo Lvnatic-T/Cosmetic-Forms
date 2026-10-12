@@ -1,0 +1,9 @@
+{
+  "pokemon": ["aerodactyl"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:aerodactylite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

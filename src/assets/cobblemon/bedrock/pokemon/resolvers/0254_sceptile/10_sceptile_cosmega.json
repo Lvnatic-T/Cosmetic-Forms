@@ -1,0 +1,41 @@
+{
+  "species": "cobblemon:sceptile",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "poser": "cobblemon:sceptile_mega",
+      "model": "cobblemon:sceptile_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega_emissive.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega_emissive_shiny.png"
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "alpha"],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega_alpha.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

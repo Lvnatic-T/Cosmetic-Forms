@@ -1,0 +1,9 @@
+{
+  "pokemon": ["manectric"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:manectite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

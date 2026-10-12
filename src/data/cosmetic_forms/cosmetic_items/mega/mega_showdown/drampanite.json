@@ -1,0 +1,9 @@
+{
+  "pokemon": ["drampa"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:drampanite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

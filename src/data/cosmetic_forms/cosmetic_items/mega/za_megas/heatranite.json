@@ -1,0 +1,9 @@
+{
+  "pokemon": ["heatran"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "zamega:heatranite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

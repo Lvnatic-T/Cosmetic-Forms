@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:abomasnow",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "poser": "cobblemon:abomasnow_mega",
+      "model": "cobblemon:abomasnow_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0460_abomasnow/megaabomasnow.png"
+    },
+    {
+      "aspects": ["mcosmetic_item-megaga", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0460_abomasnow/megaabomasnow_shiny.png"
+    }
+  ]
+}

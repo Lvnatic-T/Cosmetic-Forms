@@ -1,0 +1,9 @@
+{
+  "pokemon": ["chimecho"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:chimechite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

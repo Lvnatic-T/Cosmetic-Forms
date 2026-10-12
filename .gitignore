@@ -1,0 +1,10 @@
+.idea
+build
+input_sources
+resolvers_cosmetic
+tools
+
+.env
+build.bat
+cosmetic_resolver_conversion.bat
+conversion_report.md

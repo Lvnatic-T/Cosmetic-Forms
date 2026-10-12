@@ -1,0 +1,9 @@
+{
+  "pokemon": ["meowstic"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:meowsticite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

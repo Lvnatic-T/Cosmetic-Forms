@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:pidgeot",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
+      "poser": "cobblemon:pidgeot_mega",
+      "model": "cobblemon:pidgeot_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0018_pidgeot/pidgeot_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
+      "poser": "cobblemon:pidgeot_mega",
+      "model": "cobblemon:pidgeot_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0018_pidgeot/pidgeot_mega_shiny.png"
+    }
+  ]
+}

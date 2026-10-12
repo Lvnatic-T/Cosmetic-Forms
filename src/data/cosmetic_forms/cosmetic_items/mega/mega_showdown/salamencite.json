@@ -1,0 +1,9 @@
+{
+  "pokemon": ["salamence"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:salamencite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

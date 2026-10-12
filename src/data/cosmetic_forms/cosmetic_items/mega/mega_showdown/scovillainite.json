@@ -1,0 +1,9 @@
+{
+  "pokemon": ["scovillain"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:scovillainite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

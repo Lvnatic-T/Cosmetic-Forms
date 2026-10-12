@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:tyranitar",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:tyranitar_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0248_tyranitar/tyranitar_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0248_tyranitar/tyranitar_mega_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["slowbro"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "lost_lore:slowbrogonite",
+      "aspects": ["cosmetic_item-mega_y"]
+    }
+  ]
+}

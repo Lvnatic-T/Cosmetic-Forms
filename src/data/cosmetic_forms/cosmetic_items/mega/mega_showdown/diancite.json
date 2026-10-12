@@ -1,0 +1,9 @@
+{
+  "pokemon": ["diancie"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:diancite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

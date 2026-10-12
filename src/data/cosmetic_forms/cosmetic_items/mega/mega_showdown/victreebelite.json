@@ -1,0 +1,9 @@
+{
+  "pokemon": ["victreebel"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:victreebelite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

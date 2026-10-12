@@ -1,0 +1,9 @@
+{
+  "pokemon": ["staraptor"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:staraptite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

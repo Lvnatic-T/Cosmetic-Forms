@@ -1,0 +1,9 @@
+{
+  "pokemon": ["medicham"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:medichamite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

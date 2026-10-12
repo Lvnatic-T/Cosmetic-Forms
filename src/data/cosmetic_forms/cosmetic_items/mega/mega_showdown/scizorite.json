@@ -1,0 +1,9 @@
+{
+  "pokemon": ["scizor"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:scizorite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

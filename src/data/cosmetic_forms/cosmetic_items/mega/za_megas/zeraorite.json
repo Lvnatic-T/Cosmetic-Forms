@@ -1,0 +1,9 @@
+{
+  "pokemon": ["zeraora"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "zamega:zeraorite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

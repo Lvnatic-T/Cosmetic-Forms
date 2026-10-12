@@ -1,0 +1,9 @@
+{
+  "pokemon": ["scolipede"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:scolipite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

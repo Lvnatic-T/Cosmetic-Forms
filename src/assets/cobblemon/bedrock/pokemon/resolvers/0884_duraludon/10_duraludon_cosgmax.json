@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:duraludon",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:gmaxduraludon",
+      "model": "cobblemon:gmax_duraludon.geo",
+      "texture": "cobblemon:textures/pokemon/0884_duraludon/gmax_duraludon.png"
+    },
+    {
+      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0884_duraludon/gmax_duraludon_shiny.png"
+    }
+  ]
+}

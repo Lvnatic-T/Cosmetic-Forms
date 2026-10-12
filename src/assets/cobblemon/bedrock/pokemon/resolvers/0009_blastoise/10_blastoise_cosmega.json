@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:blastoise_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "model": "cobblemon:blastoise_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_shiny_mega.png"
+    }
+  ]
+}

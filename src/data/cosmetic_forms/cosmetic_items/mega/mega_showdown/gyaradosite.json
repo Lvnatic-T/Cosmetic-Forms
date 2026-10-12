@@ -1,0 +1,9 @@
+{
+  "pokemon": ["gyarados"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:gyaradosite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

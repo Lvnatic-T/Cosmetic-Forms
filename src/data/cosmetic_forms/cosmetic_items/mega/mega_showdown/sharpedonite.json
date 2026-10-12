@@ -1,0 +1,9 @@
+{
+  "pokemon": ["sharpedo"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:sharpedonite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

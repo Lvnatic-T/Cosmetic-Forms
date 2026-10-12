@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:mawile",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:mawile_mega.geo",
+      "poser": "cobblemon:mawile_mega",
+      "texture": "cobblemon:textures/pokemon/0303_mawile/mawile_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0303_mawile/mawile_mega_shiny.png"
+    }
+  ]
+}

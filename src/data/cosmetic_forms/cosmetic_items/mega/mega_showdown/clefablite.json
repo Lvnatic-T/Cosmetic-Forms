@@ -1,0 +1,9 @@
+{
+  "pokemon": ["clefable"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:clefablite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

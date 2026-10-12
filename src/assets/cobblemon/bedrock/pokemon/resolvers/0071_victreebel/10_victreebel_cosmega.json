@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:victreebel",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:victreebel_mega.geo",
+      "poser": "cobblemon:victreebel_mega",
+      "texture": "cobblemon:textures/pokemon/0071_victreebel/victreebel_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0071_victreebel/victreebel_mega_shiny.png"
+    }
+  ]
+}

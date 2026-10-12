@@ -1,0 +1,9 @@
+{
+  "pokemon": ["dragalge"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:dragalgite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

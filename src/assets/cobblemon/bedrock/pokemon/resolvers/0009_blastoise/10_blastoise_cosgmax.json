@@ -1,0 +1,32 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:blastoisegmax",
+      "model": "cobblemon:gmaxblastoise.geo",
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_gigantamax.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_gigantamax_emissive.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "poser": "cobblemon:blastoisegmax",
+      "model": "cobblemon:gmaxblastoise.geo",
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_gigantamax_shiny.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_gigantamax_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

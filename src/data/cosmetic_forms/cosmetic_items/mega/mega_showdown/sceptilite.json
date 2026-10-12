@@ -1,0 +1,9 @@
+{
+  "pokemon": ["sceptile"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:sceptilite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "pokemon": ["cameruptite"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:cameruptite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

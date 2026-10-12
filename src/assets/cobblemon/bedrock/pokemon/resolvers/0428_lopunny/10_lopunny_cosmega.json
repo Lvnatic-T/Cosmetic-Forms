@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:lopunny",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:lopunny_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/lopunny_mega.png"
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/lopunny_mega_shiny.png"
+    }
+  ]
+}

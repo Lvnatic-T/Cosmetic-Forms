@@ -1,0 +1,9 @@
+{
+  "pokemon": ["kangaskhan"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:kangaskhanite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

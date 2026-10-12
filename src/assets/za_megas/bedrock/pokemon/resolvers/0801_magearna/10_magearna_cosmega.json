@@ -1,0 +1,58 @@
+{
+  "species": "cobblemon:magearna",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "poser": "cobblemon:magearna_mega",
+      "model": "cobblemon:magearna_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_shiny_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["original-color", "cosmetic_item-mega"],
+      "poser": "cobblemon:magearna_mega",
+      "model": "cobblemon:magearna_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_origin_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["original-color", "cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_shiny_origin_mega.png",
+      "layers": [
+        {
+          "name": "glow",
+          "texture": "cobblemon:textures/pokemon/0801_magearna/magearna_mega_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

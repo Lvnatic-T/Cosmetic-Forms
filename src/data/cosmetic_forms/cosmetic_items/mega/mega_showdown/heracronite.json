@@ -1,0 +1,9 @@
+{
+  "pokemon": ["heracros"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:heracronite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

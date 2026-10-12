@@ -1,0 +1,9 @@
+{
+  "pokemon": ["lucario"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:lucarionite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

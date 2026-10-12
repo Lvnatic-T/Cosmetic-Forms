@@ -1,0 +1,9 @@
+{
+  "pokemon": ["golurk"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:golurkite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

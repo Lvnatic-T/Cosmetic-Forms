@@ -1,0 +1,9 @@
+{
+  "pokemon": ["froslass"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:froslassite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

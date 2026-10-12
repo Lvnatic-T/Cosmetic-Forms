@@ -1,0 +1,9 @@
+{
+  "pokemon": ["hawlucha"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:hawluchanite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

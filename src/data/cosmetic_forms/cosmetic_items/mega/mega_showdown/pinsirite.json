@@ -1,0 +1,9 @@
+{
+  "pokemon": ["pinsir"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:pinsirite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

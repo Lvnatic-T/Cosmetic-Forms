@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:gardevoir",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "model": "cobblemon:gardevoirmega.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/gardevoir_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/gardevoir_mega_shiny.png"
+    }
+  ]
+}

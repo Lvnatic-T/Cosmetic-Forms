@@ -1,0 +1,9 @@
+{
+  "pokemon": ["alakazam"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:alakazite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

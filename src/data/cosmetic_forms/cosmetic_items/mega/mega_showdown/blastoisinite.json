@@ -1,0 +1,9 @@
+{
+  "pokemon": ["blastoise"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:blastoisinite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

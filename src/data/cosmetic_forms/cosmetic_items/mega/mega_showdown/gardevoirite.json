@@ -1,0 +1,9 @@
+{
+  "pokemon": ["gardevoir"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:gardevoirite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

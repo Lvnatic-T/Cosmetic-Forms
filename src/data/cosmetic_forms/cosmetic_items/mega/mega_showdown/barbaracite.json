@@ -1,0 +1,9 @@
+{
+  "pokemon": ["barbaracle"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:barbaracite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

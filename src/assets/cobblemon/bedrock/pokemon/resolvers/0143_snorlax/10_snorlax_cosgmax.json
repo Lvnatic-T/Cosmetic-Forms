@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:snorlax",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:snorlaxgmax",
+      "model": "cobblemon:snorlax_gigantamax.geo",
+      "texture": "cobblemon:textures/pokemon/0143_snorlax/snorlax_gigantamax.png"
+    },
+    {
+      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0143_snorlax/snorlax_gigantamax_shiny.png"
+    }
+  ]
+}

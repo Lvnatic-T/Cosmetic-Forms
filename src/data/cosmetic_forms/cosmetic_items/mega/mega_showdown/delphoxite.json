@@ -1,0 +1,9 @@
+{
+  "pokemon": ["delphox"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:delphoxite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

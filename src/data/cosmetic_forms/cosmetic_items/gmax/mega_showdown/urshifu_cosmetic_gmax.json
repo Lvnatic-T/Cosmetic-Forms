@@ -1,0 +1,9 @@
+{
+  "pokemon": ["urshifu"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:sweet_max_soup",
+      "aspects": ["cosmetic_item-gmax"]
+    }
+  ]
+}

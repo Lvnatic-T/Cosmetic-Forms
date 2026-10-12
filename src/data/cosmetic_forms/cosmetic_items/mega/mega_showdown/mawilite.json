@@ -1,0 +1,9 @@
+{
+  "pokemon": ["mawile"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:mawilite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

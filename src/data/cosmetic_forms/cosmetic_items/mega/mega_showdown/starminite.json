@@ -1,0 +1,9 @@
+{
+  "pokemon": ["starmie"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:starminite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

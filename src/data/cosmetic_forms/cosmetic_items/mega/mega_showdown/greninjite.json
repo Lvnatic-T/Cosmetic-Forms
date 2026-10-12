@@ -1,0 +1,9 @@
+{
+  "pokemon": ["greninja"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:greninjite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

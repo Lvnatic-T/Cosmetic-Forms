@@ -1,0 +1,9 @@
+{
+  "pokemon": ["latias"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:latiasite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

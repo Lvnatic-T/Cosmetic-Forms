@@ -1,0 +1,41 @@
+{
+  "pokemon": [
+    "alcremie",
+    "appletun",
+    "blastoise",
+    "butterfree",
+    "centiskorch",
+    "charizard",
+    "cinderace",
+    "coalossal",
+    "copperajah",
+    "corviknight",
+    "drednaw",
+    "duraludon",
+    "eevee",
+    "flapple",
+    "garbodor",
+    "gengar",
+    "grimmsnarl",
+    "hatterene",
+    "inteleon",
+    "kingler",
+    "lapras",
+    "machamp",
+    "melmetal",
+    "meowth",
+    "orbeetle",
+    "pikachu",
+    "rillaboom",
+    "sandaconda",
+    "snorlax",
+    "toxtricity",
+    "venusaur"
+  ],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:max_soup",
+      "aspects": ["cosmetic_item-gmax"]
+    }
+  ]
+}

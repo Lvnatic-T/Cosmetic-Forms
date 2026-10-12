@@ -1,0 +1,16 @@
+{
+  "species": "cobblemon:drednaw",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-gmax"],
+      "poser": "cobblemon:gmaxdrednaw",
+      "model": "cobblemon:gmax_drednaw.geo",
+      "texture": "cobblemon:textures/pokemon/0834_drednaw/gmax_drednaw.png"
+    },
+    {
+      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "texture": "cobblemon:textures/pokemon/0834_drednaw/gmax_drednaw_shiny.png"
+    }
+  ]
+}

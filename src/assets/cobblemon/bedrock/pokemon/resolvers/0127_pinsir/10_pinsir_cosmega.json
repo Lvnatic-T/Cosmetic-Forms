@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:pinsir",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": ["cosmetic_item-mega"],
+      "poser": "cobblemon:pinsir_mega",
+      "model": "cobblemon:pinsir_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0127_pinsir/pinsir_mega.png",
+      "layers": [
+        {
+          "name": "wings",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/0127_pinsir/pinsir_mega_transparency.png"
+            ]
+          },
+          "emissive": false,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": ["cosmetic_item-mega", "shiny"],
+      "poser": "cobblemon:pinsir_mega",
+      "model": "cobblemon:pinsir_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0127_pinsir/pinsir_mega_shiny.png"
+    }
+  ]
+}

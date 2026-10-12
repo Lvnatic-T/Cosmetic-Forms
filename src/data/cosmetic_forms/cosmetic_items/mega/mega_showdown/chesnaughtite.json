@@ -1,0 +1,9 @@
+{
+  "pokemon": ["chesnaught"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:chesnaughtite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

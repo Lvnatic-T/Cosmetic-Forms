@@ -1,0 +1,9 @@
+{
+  "pokemon": ["glalie"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:glalitite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}

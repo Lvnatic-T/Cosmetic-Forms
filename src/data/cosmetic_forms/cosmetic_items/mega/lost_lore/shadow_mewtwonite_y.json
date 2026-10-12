@@ -1,0 +1,9 @@
+{
+  "pokemon": ["mewtwo"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "lost_lore:shadow_mewtwonite_y",
+      "aspects": ["cosmetic_item-mega_y"]
+    }
+  ]
+}

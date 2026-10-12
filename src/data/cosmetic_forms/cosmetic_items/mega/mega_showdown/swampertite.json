@@ -1,0 +1,9 @@
+{
+  "pokemon": ["swampert"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "mega_showdown:swampertite",
+      "aspects": ["cosmetic_item-mega"]
+    }
+  ]
+}
