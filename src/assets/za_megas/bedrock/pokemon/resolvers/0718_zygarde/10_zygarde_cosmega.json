@@ -4,7 +4,6 @@
   "variations": [
     {
       "aspects": [
-        "complete-percent",
         "cosmetic_item-mega"
       ],
       "poser": "cobblemon:zygarde_mega",
@@ -21,7 +20,6 @@
     },
     {
       "aspects": [
-        "complete-percent",
         "cosmetic_item-mega",
         "shiny"
       ],
