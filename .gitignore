@@ -7,5 +7,11 @@ tools
 
 .env
 build.bat
-cosmetic_resolver_conversion.bat
+cosmetic_converter.bat
+cosmetic_converter_protected.bat
+generate_pokemon_test.bat
+pokemon_resolver_test_1.21.1.zip
+publish.bat
+publish_preview.bat
+publish_report.md
 report.md

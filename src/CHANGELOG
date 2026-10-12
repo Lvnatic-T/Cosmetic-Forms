@@ -1,8 +1,10 @@
 # Changelog v1.5
-### Updated for the latest versions!
-- Requires Mega Showdown 1.3.0+ now!
-- Optionally works with Navas ZA Megas 1.8.1+ now!
-- Optionally works with Lost Lore 3.2.0+ now!
+### Updated for the latest versions:
+- Requires Mega Showdown 1.3.0+!
+- Optionally works with Navas ZA Megas 1.8.1+!
+- Optionally works with Lost Lore 3.0.0+ !
 ### General:
+- Optimized workflow with python, resulting in less _silly_ errors LOL
 - Fixed Heracrosite & Cameruptite not being able to be equipped
 - Fixed Abomasnows Shiny mega not displaying properly
+- Cleaned up all files and reordered data structure
