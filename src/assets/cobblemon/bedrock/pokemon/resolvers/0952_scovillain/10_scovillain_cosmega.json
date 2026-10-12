@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:scovillain_mega",
       "model": "cobblemon:scovillain_mega.geo",
       "texture": "cobblemon:textures/pokemon/0952_scovillain/scovillain_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0952_scovillain/scovillain_mega_shiny.png"
     }
   ]

@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:eelektross_mega",
       "model": "cobblemon:eelektross_mega.geo",
       "texture": "cobblemon:textures/pokemon/0604_eelektross/eelektross_mega.png",
@@ -16,7 +18,12 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
+      "poser": "cobblemon:eelektross_mega",
+      "model": "cobblemon:eelektross_mega.geo",
       "texture": "cobblemon:textures/pokemon/0604_eelektross/eelektross_mega_shiny.png"
     }
   ]

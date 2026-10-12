@@ -3,13 +3,19 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:meganium_mega",
       "model": "cobblemon:meganium_mega.geo",
-      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_mega.png"
+      "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_mega.png",
+      "layers": []
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_mega_shiny.png"
     }
   ]

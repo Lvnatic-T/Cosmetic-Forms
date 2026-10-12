@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:ampharos_mega.geo",
       "texture": "cobblemon:textures/pokemon/0181_ampharos/ampharos_mega.png",
       "layers": [
@@ -16,7 +18,10 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0181_ampharos/ampharos_shiny_mega.png",
       "layers": [
         {

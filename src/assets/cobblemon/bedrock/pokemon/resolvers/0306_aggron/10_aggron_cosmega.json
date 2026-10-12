@@ -3,16 +3,24 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:aggron_mega.geo",
       "texture": "cobblemon:textures/pokemon/0306_aggron/aggron_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0306_aggron/aggron_mega_shiny.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "alpha_eyes"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "alpha_eyes"
+      ],
       "layers": [
         {
           "name": "alpha_eyes",

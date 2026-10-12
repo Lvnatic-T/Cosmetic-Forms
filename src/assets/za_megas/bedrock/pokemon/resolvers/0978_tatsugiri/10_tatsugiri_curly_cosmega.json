@@ -3,7 +3,10 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega","tatsugiri-texture-curly"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "tatsugiri-texture-curly"
+      ],
       "poser": "cobblemon:tatsugiri_droopy_mega",
       "model": "cobblemon:tatsugiri_curly_mega.geo",
       "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_mega.png",
@@ -16,7 +19,11 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny","tatsugiri-texture-curly"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny",
+        "tatsugiri-texture-curly"
+      ],
       "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_mega_shiny.png",
       "layers": [
         {
@@ -27,7 +34,10 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega","tatsugiri-texture-stretchy"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "tatsugiri-texture-stretchy"
+      ],
       "poser": "cobblemon:tatsugiri_droopy_mega",
       "model": "cobblemon:tatsugiri_stretchy_mega.geo",
       "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_mega.png",
@@ -40,7 +50,11 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny","tatsugiri-texture-stretchy"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny",
+        "tatsugiri-texture-stretchy"
+      ],
       "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_mega_shiny.png",
       "layers": [
         {
@@ -51,7 +65,10 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega","tatsugiri-texture-droopy"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "tatsugiri-texture-droopy"
+      ],
       "poser": "cobblemon:tatsugiri_droopy_mega",
       "model": "cobblemon:tatsugiri_droopy_mega.geo",
       "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_mega.png",
@@ -64,7 +81,11 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny","tatsugiri-texture-droopy"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny",
+        "tatsugiri-texture-droopy"
+      ],
       "texture": "cobblemon:textures/pokemon/0978_tatsugiri/tatsugiri_mega_shiny.png",
       "layers": [
         {

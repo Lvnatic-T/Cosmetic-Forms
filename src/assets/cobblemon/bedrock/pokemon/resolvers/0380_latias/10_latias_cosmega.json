@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:mega_latias",
       "model": "cobblemon:mega_latias.geo",
       "texture": "cobblemon:textures/pokemon/0380_latias/megalatias.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0380_latias/megalatias_shiny.png"
     }
   ]

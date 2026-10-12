@@ -3,12 +3,17 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:houndoom_mega.geo",
       "texture": "cobblemon:textures/pokemon/0229_houndoom/houndoom_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0229_houndoom/houndoom_mega_shiny.png"
     }
   ]

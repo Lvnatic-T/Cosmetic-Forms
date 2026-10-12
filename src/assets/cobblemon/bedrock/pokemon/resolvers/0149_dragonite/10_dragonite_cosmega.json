@@ -3,15 +3,31 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:dragonite",
       "model": "cobblemon:dragonite_mega.geo",
       "texture": "cobblemon:textures/pokemon/0149_dragonite/dragonite_mega.png",
       "layers": []
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0149_dragonite/dragonite_mega_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-bundle",
+        "cosmetic_item-mega"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0149_dragonite/dragonite_mailbag_mega.png"
+        }
+      ]
     }
   ]
 }

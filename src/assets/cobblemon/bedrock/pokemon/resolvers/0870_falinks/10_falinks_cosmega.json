@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:falinks_mega",
       "model": "cobblemon:falinks_mega.geo",
       "texture": "cobblemon:textures/pokemon/0870_falinks/falinks_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0870_falinks/falinks_mega_shiny.png"
     }
   ]

@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-gmax"],
+      "aspects": [
+        "cosmetic_item-gmax"
+      ],
       "poser": "cobblemon:appletun_gmax",
       "model": "cobblemon:appletun_gmax.geo",
       "texture": "cobblemon:textures/pokemon/0842_appletun/appletun_gmax.png"
     },
     {
-      "aspects": ["cosmetic_item-gmax","shiny"],
+      "aspects": [
+        "cosmetic_item-gmax",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0842_appletun/appletun_gmax_shiny.png"
     }
   ]

@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega_x"],
+      "aspects": [
+        "cosmetic_item-mega_x"
+      ],
       "model": "cobblemon:raichu_mega_x.geo",
       "poser": "cobblemon:raichu_mega_x",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_mega_x.png",
@@ -18,7 +20,10 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega_x", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega_x",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_mega_x_shiny.png",
       "layers": [
         {

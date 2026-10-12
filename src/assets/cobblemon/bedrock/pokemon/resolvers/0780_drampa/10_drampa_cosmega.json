@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
-	  "poser": "cobblemon:drampamega",
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
+      "poser": "cobblemon:drampamega",
       "model": "cobblemon:drampamega.geo",
       "texture": "cobblemon:textures/pokemon/0780_drampa/drampa_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0780_drampa/drampa_mega_shiny.png"
     }
   ]

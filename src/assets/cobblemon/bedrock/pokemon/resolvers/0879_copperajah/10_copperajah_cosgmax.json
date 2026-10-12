@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-gmax"],
+      "aspects": [
+        "cosmetic_item-gmax"
+      ],
       "poser": "cobblemon:copperajahgmax",
       "model": "cobblemon:gmax_copperajah.geo",
       "texture": "cobblemon:textures/pokemon/0879_copperajah/gmax_copperajah.png"
     },
     {
-      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "aspects": [
+        "cosmetic_item-gmax",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0879_copperajah/gmax_copperajah_shiny.png"
     }
   ]

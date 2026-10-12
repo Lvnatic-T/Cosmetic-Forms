@@ -3,16 +3,19 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:feraligatr_mega",
       "model": "cobblemon:feraligatr_mega.geo",
-      "texture": "cobblemon:textures/pokemon/0160_feraligatr/feraligatr_mega.png",
-      "layers": []
+      "texture": "cobblemon:textures/pokemon/0160_feraligatr/feraligatr_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
-      "texture": "cobblemon:textures/pokemon/0160_feraligatr/feraligatr_mega.png",
-      "layers": []
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0160_feraligatr/feraligatr_mega_shiny.png"
     }
   ]
 }

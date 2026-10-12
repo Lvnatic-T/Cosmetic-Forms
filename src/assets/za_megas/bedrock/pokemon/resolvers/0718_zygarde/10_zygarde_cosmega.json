@@ -1,9 +1,12 @@
 {
   "species": "cobblemon:zygarde",
-  "order": 100,
+  "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "complete-percent",
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:zygarde_mega",
       "model": "cobblemon:zygarde_mega.geo",
       "texture": "cobblemon:textures/pokemon/0718_zygarde/zygarde_mega.png",
@@ -17,7 +20,11 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "complete-percent",
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0718_zygarde/zygarde_mega_shiny.png",
       "layers": [
         {

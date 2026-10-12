@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:chesnaught_mega.geo",
       "poser": "cobblemon:chesnaught_mega",
       "texture": "cobblemon:textures/pokemon/0652_chesnaught/chesnaught_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0652_chesnaught/chesnaught_mega_shiny.png"
     }
   ]

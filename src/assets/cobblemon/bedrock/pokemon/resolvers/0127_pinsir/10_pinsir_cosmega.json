@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:pinsir_mega",
       "model": "cobblemon:pinsir_mega.geo",
       "texture": "cobblemon:textures/pokemon/0127_pinsir/pinsir_mega.png",
@@ -21,9 +23,10 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
-      "poser": "cobblemon:pinsir_mega",
-      "model": "cobblemon:pinsir_mega.geo",
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0127_pinsir/pinsir_mega_shiny.png"
     }
   ]

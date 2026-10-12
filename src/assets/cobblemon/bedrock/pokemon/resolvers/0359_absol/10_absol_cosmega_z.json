@@ -1,0 +1,34 @@
+{
+  "species": "cobblemon:absol",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cosmetic_item-mega_z"
+      ],
+      "poser": "cobblemon:absol_mega_z",
+      "model": "cobblemon:absol_mega_z.geo",
+      "texture": "cobblemon:textures/pokemon/0359_absol/absol_mega_z.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega_z",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0359_absol/absol_mega_z_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega_z",
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0359_absol/absol_mega_z_alpha.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

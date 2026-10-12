@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:heracross_mega.geo",
       "texture": "cobblemon:textures/pokemon/0214_heracross/heracross_mega.png",
       "layers": [
@@ -16,17 +18,11 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
-      "model": "cobblemon:heracross_mega.geo",
-      "texture": "cobblemon:textures/pokemon/0214_heracross/heracross_mega_shiny.png",
-      "layers": [
-        {
-          "name": "emissive",
-          "emissive": false,
-          "texture": "cobblemon:textures/pokemon/0214_heracross/heracross_transparency_mega.png",
-          "translucent": true
-        }
-      ]
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0214_heracross/heracross_mega_shiny.png"
     }
   ]
 }

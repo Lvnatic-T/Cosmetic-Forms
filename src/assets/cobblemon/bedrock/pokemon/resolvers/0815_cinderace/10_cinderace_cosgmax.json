@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-gmax"],
+      "aspects": [
+        "cosmetic_item-gmax"
+      ],
       "poser": "cobblemon:cinderacegmax",
       "model": "cobblemon:cinderace_gigantamax.geo",
       "texture": "cobblemon:textures/pokemon/0815_cinderace/cinderace_gigantamax.png",
@@ -16,7 +18,12 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-gmax", "shiny"],
+      "aspects": [
+        "cosmetic_item-gmax",
+        "shiny"
+      ],
+      "poser": "cobblemon:cinderacegmax",
+      "model": "cobblemon:cinderace_gigantamax.geo",
       "texture": "cobblemon:textures/pokemon/0815_cinderace/cinderace_gigantamax_shiny.png"
     }
   ]

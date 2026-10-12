@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:megarayquaza",
       "model": "cobblemon:megarayquaza.geo",
       "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza.png",
@@ -17,9 +19,10 @@
       ]
     },
     {
-      "aspects": ["shiny", "cosmetic_item-mega"],
-      "poser": "cobblemon:megarayquaza",
-      "model": "cobblemon:megarayquaza.geo",
+      "aspects": [
+        "shiny",
+        "cosmetic_item-mega"
+      ],
       "texture": "cobblemon:textures/pokemon/0384_rayquaza/megarayquaza_shiny.png",
       "layers": [
         {

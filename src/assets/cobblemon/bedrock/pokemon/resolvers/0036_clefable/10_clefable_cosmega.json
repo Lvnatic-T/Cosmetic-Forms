@@ -3,7 +3,9 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "poser": "cobblemon:clefable_mega",
       "model": "cobblemon:clefable_mega.geo",
       "texture": "cobblemon:textures/pokemon/0036_clefable/clefable_mega.png",
@@ -17,16 +19,11 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
-      "texture": "cobblemon:textures/pokemon/0036_clefable/clefable_mega_shiny.png",
-      "layers": [
-        {
-          "name": "glow",
-          "texture": "cobblemon:textures/pokemon/0036_clefable/clefable_mega_emissive.png",
-          "emissive": true,
-          "translucent": true
-        }
-      ]
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0036_clefable/clefable_mega_shiny.png"
     }
   ]
 }

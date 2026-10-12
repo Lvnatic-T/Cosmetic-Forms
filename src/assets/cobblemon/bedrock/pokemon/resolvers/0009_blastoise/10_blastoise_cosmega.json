@@ -3,14 +3,61 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
+      "poser": "cobblemon:blastoise_mega",
       "model": "cobblemon:blastoise_mega.geo",
-      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega.png"
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega_emissive.png",
+          "emissive": true
+        }
+      ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
-      "model": "cobblemon:blastoise_mega.geo",
-      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_shiny_mega.png"
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega_shiny.png"
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega",
+        "cosmetic_item-black_glasses"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega_triangleglasses.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega",
+        "cosmetic_item-wise_glasses"
+      ],
+      "layers": [
+        {
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega_circleglasses.png"
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cosmetic_item-mega",
+        "alpha_eyes"
+      ],
+      "layers": [
+        {
+          "name": "alpha_eyes",
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega_alpha.png",
+          "emissive": true
+        }
+      ]
     }
   ]
 }

@@ -3,13 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:hawlucha_mega.geo",
       "poser": "cobblemon:hawlucha_mega",
       "texture": "cobblemon:textures/pokemon/0701_hawlucha/hawlucha_mega.png"
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0701_hawlucha/hawlucha_mega_shiny.png"
     }
   ]

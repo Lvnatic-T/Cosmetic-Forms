@@ -3,15 +3,18 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega_y"],
+      "aspects": [
+        "cosmetic_item-mega_y"
+      ],
       "poser": "cobblemon:mewtwo_y",
       "model": "cobblemon:mewtwo_y.geo",
       "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_y.png"
     },
     {
-      "aspects": ["cosmetic_item-mega_y", "shiny"],
-      "poser": "cobblemon:mewtwo_y",
-      "model": "cobblemon:mewtwo_y.geo",
+      "aspects": [
+        "cosmetic_item-mega_y",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0150_mewtwo/mewtwo_y_shiny.png"
     }
   ]

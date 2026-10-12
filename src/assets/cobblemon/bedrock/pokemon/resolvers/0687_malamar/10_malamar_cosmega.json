@@ -3,15 +3,13 @@
   "order": 10,
   "variations": [
     {
-      "aspects": ["cosmetic_item-mega"],
+      "aspects": [
+        "cosmetic_item-mega"
+      ],
       "model": "cobblemon:malamarmega.geo",
       "poser": "cobblemon:malamarmega",
       "texture": "cobblemon:textures/pokemon/0687_malamar/malamar_mega.png",
       "layers": [
-        {
-          "name": "emissive",
-          "texture": "cobblemon:textures/pokemon/blank.png"
-        },
         {
           "name": "emissive",
           "texture": {
@@ -32,7 +30,10 @@
       ]
     },
     {
-      "aspects": ["cosmetic_item-mega", "shiny"],
+      "aspects": [
+        "cosmetic_item-mega",
+        "shiny"
+      ],
       "texture": "cobblemon:textures/pokemon/0687_malamar/malamar_mega_shiny.png"
     }
   ]
