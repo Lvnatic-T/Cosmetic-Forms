@@ -35,6 +35,7 @@
     },
     {
       "aspects": [
+        "cosmetic_item-mega",
         "alpha_eyes"
       ],
       "layers": [
