@@ -9,7 +9,3 @@
 - Fixed Floettite being equipable on all Flower variants
 - Fixed Abomasnow Shiny mega not displaying properly
 - Cleaned up all files and reordered data structure
-
-
-### NOTES:
-- Add back abomasnow mega and update to MSD 1.3.1 or whatever Yajat calls it for dependency
