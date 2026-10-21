@@ -9,3 +9,5 @@
 - Fixed Floettite being equipable on all Flower variants
 - Fixed Abomasnow Shiny mega not displaying properly
 - Cleaned up all files and reordered data structure
+### License Changes:
+- As all my other projects, this now falls under my custom License which you can read about on my [License FAQ](https://github.com/Lvnatic-T/Lost-Lore/wiki)
